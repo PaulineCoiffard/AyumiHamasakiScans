@@ -1,6 +1,6 @@
-# Ayumi Hamasaki Scans (1995 - Present)
+# Ayumi Hamasaki Scans (1993 - Present)
 
-This repository's aim is to archive Ayumi Hamasaki's scans from her early days (1995 or so) to present day. 
+This repository's aim is to archive Ayumi Hamasaki's scans from her early days (1993 or so) to present day. 
 
 For now, only magazines scans are available, but more might be added later (calendars, TA magazines, photobooks,...)
 
